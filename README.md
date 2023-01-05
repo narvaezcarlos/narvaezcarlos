@@ -1,19 +1,20 @@
 <h3 align="left">Hi there, I'm <b>Carlos Narvaez</b> 🎸</h3>
-<p>I am a computer engineer specializing in electronic commerce, I am currently in Medellin Antioquia COL.</p>
+<p>I am a computer engineer specializing in e-commerce, I am currently in Medellin Antioquia COL.</p>
 
 <!-- skills -->
 
 <h3 align="left">Some of my "songs" I have built with</h3>
-<p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<div align="left" style="background:white; display:flex;padding:.25rem; width:50%;">
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a>
+      alt="react" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="max-width: 100%;margin: 0 .5rem;"/>
     </p>
 
 <!-- networks -->
@@ -27,6 +28,7 @@
       style="max-width: 100%;">
   </a>
   </p>
+</div>
 
 <!-- views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narvaezcarlos&label=Profile%20views&color=brightgreen&style=for-the-badge"
