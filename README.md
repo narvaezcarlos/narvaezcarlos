@@ -1,6 +1,32 @@
 <h3 align="left">Hi there, I'm <b>Carlos Narvaez</b> 🎸</h3>
 <p>I am a computer engineer specializing in e-commerce, I am currently in Medellin Antioquia COL.</p>
 
+<!-- projects -->
+<h3 align="left">These are some of my "songs" </h3>
+<p align="left">
+  <a href="https://www.offcorss.com/">www.offcorss.com</a>
+  <img src="/img/offcorss.jpg" alt="offcorss"/>
+</p>
+<p align="left">
+  <a href="https://www.offcorss.com/">Custom Shoes: www.offcorss.com</a>
+  <img src="/img/personalizacion.jpg" alt="personalizacion"/>
+</p>
+<p align="left">
+  <a href="https://www.ventadirecta.offcorss.com/">www.ventadirecta.offcorss.com</a>
+  <img src="/img/ventadirecta.jpg" alt="ventadirecta"/>
+</p>
+<p align="left">
+  <a href="https://www.offcorss.us/">www.offcorss.us</a>
+  <img src="/img/offcorssinter.jpg" alt="offcorssinter"/>
+</p>
+<p align="left">
+  <a href="https://www.blog.offcorss.com/">www.blog.offcorss.com</a>
+  <img src="/img/blog.jpg" alt="blog"/>
+</p>
+<p align="left">
+  <a href="https://www.empleo.offcorss.com/">www.empleo.offcorss.com</a>
+  <img src="/img/empleo.jpg" alt="empleo"/>
+</p>
 <!-- skills -->
 
 <h3 align="left">Some of my "songs" I have built with</h3>
@@ -14,7 +40,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"/>
 </p>
-
 
 <!-- networks -->
 
