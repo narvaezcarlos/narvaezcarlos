@@ -1,5 +1,5 @@
 <h3 align="left">Hi there, I'm <b>Carlos Narvaez</b> 🎸</h3>
-<p>I am a Informatics Engineer. Specialized in Technologies for electronic commerce. He accompanied commercial teams from a technological-strategic position in the execution of Ecommerce projects. With a proven record of success in the implementation of strategies and improvements in the customer experience, oriented towards meeting objectives, challenging projects, teamwork and constant innovation.</p>
+<p>I am a Informatics Engineer. Specialized in Technologies for e-commerce 💳💻. He accompanied commercial teams from a technological-strategic position in the execution of e-commerce projects. With a proven record of success in the implementation of strategies and improvements in the customer experience, oriented towards meeting objectives, challenging projects, teamwork and constant innovation.✨</p>
 <p>I am currently in Medellín Antioquia COL.</p>
 
 <!-- projects -->
