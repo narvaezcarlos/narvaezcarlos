@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm <b>Carlos Narvaez</b> 🎸</h3>
-<p>I am a Computer Engineer. Specialized in e-commerce Technologies 💳💻. I accompany commercial teams from a technological-strategic position in the execution of e-commerce projects. With a proven track record of success in the implementation of strategies and improvements in the customer experience, oriented towards meeting objectives, challenging projects, teamwork and constant innovation.✨</p>
-<p>I am currently in Medellín Antioquia COL.</p> 
+<p>As a highly skilled Computer Engineer with a specialization in e-commerce technologies 💳💻, I bring a wealth of expertise to commercial teams. I have a proven track record of success in implementing strategies and improving the customer experience in e-commerce projects. I am highly skilled in teamwork and innovation, and am always looking for new challenges. I am excited to bring my skills and experience to a top company and contribute to its success. ✨</p>
+<p>Currently located in Medellín, Antioquia COL, I am eager to explore new opportunities in the region.</p> 
 
 <!-- projects -->
 <h3 align="left">These are some of my "songs" </h3>
