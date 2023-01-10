@@ -61,8 +61,8 @@ Hi, I'm <b>Carlos Narvaez 🎸<br><br>As a highly skilled Computer Engineer with
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=narvaezcarlos&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](“The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.” Steve Jobs)
+### ✍️ Favorite quote
+“The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.” Steve Jobs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narvaez-carlos) 
