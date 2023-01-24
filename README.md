@@ -68,6 +68,6 @@ Hi, I'm <b>Carlos Narvaez 🎸<br><br>As a highly skilled Computer Engineer with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narvaez-carlos) 
 
 ---
-[![](https://komarev.com/ghpvc/?username=narvaezcarlos&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=narvaezcarlos&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
