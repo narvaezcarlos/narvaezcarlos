@@ -1,8 +1,28 @@
 # 💫 About Me:
-Hi, I'm <b>Carlos Narvaez 🎸<br><br>As a highly skilled Computer Engineer with a specialization in e-commerce technologies 💳💻, I bring a wealth of expertise to commercial teams. I have a proven track record of success in implementing strategies and improving the customer experience in e-commerce projects. I am highly skilled in teamwork and innovation, and am always looking for new challenges. I am excited to bring my skills and experience to a top company and contribute to its success. ✨<br><br>Currently located in Medellín, Antioquia COL, I am eager to explore new opportunities in the region.
+Hi, I'm <b>Carlos Narvaez 🎸<br><br>As a seasoned Computer Engineer specializing in ecommerce technologies 💳💻, I bring extensive expertise to commercial teams. I have a demonstrated history of success in implementing strategic solutions and enhancing customer experiences in e-commerce projects. My strengths lie in teamwork, innovation, and a constant drive to tackle new challenges. I am enthusiastic about contributing my skills and experience to a leading company and driving its success. ✨<br><br>Currently based in Medellín, Antioquia, Colombia, I am keen to explore new opportunities in the region.
 
 <!-- projects -->
 # 💫 These are some of my "songs":
+<p align="left">
+  Custom T Shirt football at VTEX IO<a href="https://b2b.hermeco.com/">b2b.hermeco.com</a>
+  <img src="/img/b2b.png" alt="offcorss"/>
+</p>
+<hr/>
+<p align="left">
+  B2B at VTEX IO<a href="https://b2b.hermeco.com/">b2b.hermeco.com</a>
+  <img src="/img/b2b.png" alt="offcorss"/>
+</p>
+<hr/>
+<p align="left">
+  Redesign and migration to VTEX IO<a href="https://www.offcorss.com/">www.offcorss.com</a>
+  <img src="/img/offcorssnew.png" alt="offcorss"/>
+</p>
+<hr/>
+<p align="left">
+  Social selling at VTEX IO<a href="https://www.linkapp.com.co/">www.linkapp.com.co</a>
+  <img src="/img/linkapp.png" alt="offcorss"/>
+</p>
+<hr/>
 <p align="left">
   <a href="https://www.offcorss.com/">www.offcorss.com</a>
   <img src="/img/offcorss.jpg" alt="offcorss"/>
