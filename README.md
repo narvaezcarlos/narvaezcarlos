@@ -4,8 +4,8 @@ Hi, I'm <b>Carlos Narvaez 🎸<br><br>As a seasoned Computer Engineer specializi
 <!-- projects -->
 # 💫 These are some of my "songs":
 <p align="left">
-  Custom T Shirt football at VTEX IO<a href="https://b2b.hermeco.com/">b2b.hermeco.com</a>
-  <img src="/img/b2b.png" alt="offcorss"/>
+  Custom T Shirt football at VTEX IO<a href="https://www.offcorss.com/camisetas-futbol-para-ninos">www.offcorss.com</a>
+  <img src="/img/customtshirt.png" alt="offcorss"/>
 </p>
 <hr/>
 <p align="left">
